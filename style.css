@@ -1,0 +1,35 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  
+h2{font-family: "Roboto", serif;
+font-weight: 400;
+}
+
+.border01{
+border: 1px red solid;
+padding: 5px;
+margin: 5px;
+}
+
+.border02{
+border-left: 1px blue solid;
+padding: 10px;
+margin: 5px;
+}
+.border03{
+border-top: 1px greenyellow solid;
+border-bottom: 1px greenyellow solid;
+padding: 10px;
+margin: 5px;
+}
+.border04{
+border-left:  1px red solid;
+padding: 10px;
+margin: 5px;
+background-color: rgba(255, 99, 71, 0.5);
+}
